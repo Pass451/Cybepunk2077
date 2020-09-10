@@ -165,6 +165,11 @@ h3{
     color: yellow;
 }
 
+h4{
+    -webkit-text-fill-color: yellow;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
 #background3 {
     background-image: url(https://cdn-l-cyberpunk.cdprojektred.com/gallery/1080p/Cyberpunk2077_Its_good_to_be_in_town_RGB-en.jpg);
     background-position: right bottom, left top;
@@ -172,3 +177,4 @@ h3{
     padding: 15px;
     height: 100%;
   }
+

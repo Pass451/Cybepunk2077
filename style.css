@@ -1,10 +1,9 @@
-
 #quiz {
 	margin-top: 20px;
 	margin-left: 10px;
 	background:  rgb(66, 181, 235);
 	padding: 10px 20px 10px 20px;
-	width: 400px;
+	width: 500px;
 	border-radius: 20px;
 	float: right bottom , left top;
 
@@ -23,7 +22,6 @@ input {
 	padding-left: 5px;
 }
 
-
 #button {
 	background: green;
 	border: none;
@@ -34,8 +32,6 @@ input {
 	transition-duration: .5s;
 	margin-top: 15px;
 }
-
-
 
 #button:hover {
 	background: white;
@@ -63,8 +59,6 @@ input {
 	width: auto;
 	height: auto;
 }
-
-
 
 #mc {
 	display: inline;
