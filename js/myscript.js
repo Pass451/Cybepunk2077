@@ -1,0 +1,1 @@
+document.write('<div class="topnav"><a class="active" href="html_inicio.html">Inicio</a><a href="html_lifepaths.html">Lifepahts</a><a href="html_facciones.html">Facciones</a><a href="html_login.html">Log In</a><a href="html_quiz.html">Quiz</a></div>')
